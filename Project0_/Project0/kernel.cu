@@ -1,3 +1,4 @@
+#include <time.h>
 
 #include <helper_math.h> 
 #include <GL/glew.h>
